@@ -1,0 +1,5 @@
+$public_scalar $_private_scalar @public_arr @_private_arr %public_hash %_private_hash
+ ???  != ! & || && +-*/%(){}[]=!
+global int  void charchar  float~str()
+ \n   $$$$$$$  a^b  ^  ^^
+''' """" : ===  a = 'B' + "c" - '\D' * 000003.141592653 / True % None[999];

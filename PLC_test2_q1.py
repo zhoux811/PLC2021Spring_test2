@@ -1,6 +1,6 @@
 import re, string
 
-f_name = 'sample2'
+f_name = 'sample2.txt'
 
 
 def t2q1(input_string):
